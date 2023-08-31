@@ -13,9 +13,14 @@ Thêm tên email: git config --global user.email    (Làm lần đầu)
 git push -u origin master
 
 Đẩy lại:
+Lưu trước
 git add -A
-git commit -m ""  (Làm mỗi lần)
+git commit -m "" 
 git push -u origin master
 
-
-jgjhghfhfhf
+Tạo nhánh phụ: 
+git checkout -b login
+(xong đẩy lại)
+git add -A
+git commit -m ""
+git push -u origin master
