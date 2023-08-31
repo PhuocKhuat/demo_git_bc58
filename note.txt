@@ -1,0 +1,21 @@
+Khởi tạo dự án: git init (Làm mỗi lần)
+Liên kết giữa local và remote: git remote and origin + url (Làm mỗi lần)
+
+Đẩy từ local lên remote
+Thêm tất cả: git add -A/ git add .(Làm mỗi lần)
+Xác nhận lý do: git commit -m ""  (Làm mỗi lần)
+Thêm tên tài khoản: git config --global user.name (Làm lần đầu)
+Thêm tên email: git config --global user.email    (Làm lần đầu)
+
+Đẩy lần 1:
+Đẩy code lên git-hub :git push -u origin master  (Làm mỗi lần)
+Đẩy lần 2:
+git push -u origin master
+
+Đẩy lại:
+git add -A
+git commit -m ""  (Làm mỗi lần)
+git push -u origin master
+
+
+jgjhghfhfhf
